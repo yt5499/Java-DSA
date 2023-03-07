@@ -1,3 +1,5 @@
+// finding prime numbers by "Sieve of Eratosthenes" way
+
 package kunal_kushwaha;
 
 public class PrimeNum {
